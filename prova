@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu currículo</title>
+</head>
+<body>
+    <h1>Currículo</h1>
+    <h3>Informações de Contato:</h3>
+    <img src="_bcc7616-fundo_branco.jpg" alt="Foto de Victor"  width="100px">
+        <li><strong>Nome:</strong>Victor Angelo Cavalcante Miranda</li>
+        <li><strong>Endereço:</strong>Rua dos programadores,927</li>
+        <li><strong>Telefone:</strong>(85) 977458725</li>
+        <li><strong>Endereço de email:</strong>Victormiranda1313@gmail.com</li>
+        <br>
+    <h3>Resumo ou Objetivo:</h3>
+    <p>Sou um programador apaixonado por resolver desafios complexos de desenvolvimento de software. Com um forte background em linguagens de programação como Python, Java e JavaScript, busco oportunidades para contribuir com meu conhecimento técnico e habilidades de resolução de problemas em projetos inovadores. Meu objetivo de carreira é continuar aprimorando minhas habilidades de codificação e colaborar com equipes dinâmicas que impulsionem o avanço tecnológico.</p>
+    <br>
+    <h3>Educação:</h3>
+        <li>Mestrado em Ciência da Computação,
+        Universidade XYZ
+        <br>
+        Data de Conclusão: Maio de 2023
+        <br>
+        Honra: Bolsa de Estudos de Mérito Acadêmico</li>
+        <br>
+        <li>Bacharelado em Engenharia de Software
+        ,Instituto ABC
+        <br>
+        Data de Conclusão: Junho de 2020
+        <br>
+        Tese de Graduação: "Desenvolvimento de um Sistema de Gerenciamento de Projetos Ágil"</li>
+        <br>
+    <h3>Habilidades:</h3>
+        <li><strong>Linguagens de programação</strong></li>
+        <p>Python
+            <br>
+            Java
+            <br>
+            JavaScript
+            <br>
+            C++
+            <br>
+        </p>
+        <li><strong>Desenvolvimento Web</strong></li>
+        <p>HTML/CSS
+            <br>
+            Frameworks frontend ( React, ,Vue.js)
+            <br>
+            Node.Js
+        </p>
+    <h3>Experiência Profissional:</h3>
+        <p><strong>Desenvolvedor de Software Júnior</strong>
+        <br>
+        Empresa ABC 
+        <br>
+        Período de Emprego: Maio de 2019 - Dezembro de 2020</p>
+        <li>Trabalhou em estreita colaboração com a equipe de desenvolvimento para criar e manter aplicativos corporativos usando tecnologias como Java e Spring Framework.</li>
+        <li>Participou de revisões de código e testes de qualidade para garantir a entrega de software de alta qualidade.</li>
+        <li>Implementou melhorias de desempenho que resultaram em uma redução de 20% no tempo de carregamento das páginas do aplicativo.</li>
+    <h3>Referências:</h3>
+        <li><strong>Nome:</strong>Sarah Smith</li>
+        <li><strong>Cargo:</strong>Gerente de Desenvolvimento de Software</li>
+        <li><strong>Empresa:</strong>Tech Innovations Inc.</li>
+        <li><strong>Contato:</strong>sarah.smith@techinnovations.com</li>
+        <li><strong>Descrição:</strong> "Victor demonstrou habilidades excepcionais em desenvolvimento web e móvel durante seu tempo na Tech Innovations. Sua capacidade de resolver problemas complexos e entregar projetos no prazo o destacou como um ativo valioso para nossa equipe."</li>
+</body>
+</html>
